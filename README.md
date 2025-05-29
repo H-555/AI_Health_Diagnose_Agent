@@ -1,5 +1,5 @@
 # AI powered Health Diagnose Agent using llama3.1
-Health Diagnose Agent generates diagnosis for patient symptoms by referring internal hospital database (RAG) and validating through hospitals official sites (RAG) with accuracy Ratings of generated diagnosis. It is safer to check with official hospital Agents for symptoms rather trusting public domains.
+Health Diagnose Agent generates diagnosis for patient symptoms by referring internal hospital database (RAG) and validating through hospitals official sites (RAG) with accuracy Ratings of generated diagnosis from 1 to 5, where 1 is low and 5 is high. It is safer to check with official hospital Agents for symptoms rather trusting public domains.
 
 # Features:
 Research the symptoms with internal database using RAG and generate diagnosis.
